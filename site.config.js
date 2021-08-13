@@ -49,7 +49,7 @@ module.exports = {
   // example:
   //
   pageUrlOverrides: {
-     '/reading': '0ad5dff9ef0c44849a484c02c5066ba0'
-  }
+     '/reading': '0ad5dff9ef0c44849a484c02c5066ba0',
+  },
   pageUrlOverrides: null
 }
