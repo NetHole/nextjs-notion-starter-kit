@@ -26,6 +26,11 @@ module.exports = {
   defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
+  
+  // social usernames (optional)
+  //twitter: 'transitive_bs',
+  //github: 'transitive-bullshit',
+  //linkedin: 'fisch2',
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
